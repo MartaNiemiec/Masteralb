@@ -7,4 +7,6 @@ Built using:
 * HTML
 * CSS
 
-live: https://htmlpreview.github.io/?https://github.com/MartaNiemiec/Masteralb/blob/master/WebChallenge1.html
+[LIVE PREVIEW](https://htmlpreview.github.io/?https://github.com/MartaNiemiec/Masteralb/blob/master/WebChallenge1.html)
+
+![Masterlab](1.jpg)
